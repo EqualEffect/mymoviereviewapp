@@ -31,7 +31,8 @@ gem 'devise'
 gem 'paperclip'
 #bootstrap
 gem 'bootstrap-sass'
-
+# give the ability to search for a movie
+gem 'searchkick'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
